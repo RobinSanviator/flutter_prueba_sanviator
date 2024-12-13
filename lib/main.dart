@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 
-import 'dynamic_list.dart';
+import 'ejemplos/dynamic_list.dart';
 
 void main() {
   runApp(const MyApp());
